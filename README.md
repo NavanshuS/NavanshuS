@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Navanshu
-- 👀 I like solving problems and presenting the solutions. The problems may range from specific like analyzing sales price
-      to maximize profits, or generic like effects of new entrant no market, or a simple chess game.
-- 🌱 I’m currently learning Machine learning algorithms, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I like solving problems and presenting the solutions. The problems may range from specific task like analyzing sale price
+      to maximize profits, or generic topic like effects of new entrant in the market, or a simple chess game.
+- 🌱 I’m currently learning and building projects around Analytics and Machine learning.
+- 💞️ I’m looking to collaborate on Analytics, Consulting projects, or anything that aims to solve problems using Data and Strategy.
 - ⚡ Fun fact: I did Stand-up comedy for a year.
 - 📫 Feel free to drop a note @ navanshusharma12@gmail.com
 - 🤝 LinkedIn: <https://www.linkedin.com/in/navanshu-sharma-13b882288/>
